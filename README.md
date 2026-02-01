@@ -1,8 +1,9 @@
-# macOS Ventura and Sequoia for Dell Latitude 5490 (MacBookPro15,2)
+# macOS Tahoe 26.2 for Dell Latitude 5490 (MacBookPro16,2)
 
-A fully working EFI, made by @JhonatanRian
+A fully working EFI, made by @JhonatanRian, (updated to Tahoe by @npyl and @gyurika12)
 
 Note: Use HeliPort if you want to use Sonoma / Sequoia
+Note: For Audio using AppleHDA method see [this](https://github.com/Mirone/MyKextInstaller?tab=readme-ov-file).
 
 ## Thanks to those who helped me with this EFI:
   - @TECHNIKVERBOT for the re-work and Sequoia patches.
@@ -12,6 +13,7 @@ Note: Use HeliPort if you want to use Sonoma / Sequoia
 ### Version tested:
   - 13.06: "Ventura"
   - 15.4: "Sequoia"
+  - 26.2: "Tahoe"
 
 ## Build Config.plist
  - [Link](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html)
