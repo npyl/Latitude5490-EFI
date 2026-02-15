@@ -2,8 +2,6 @@
 
 A fully working EFI, made by @JhonatanRian, (updated to Tahoe by @npyl and @gyurika12)
 
-Note: Use HeliPort if you want to use Sonoma / Sequoia
-
 Note: For Audio using AppleHDA method see [this](https://github.com/Mirone/MyKextInstaller?tab=readme-ov-file).
 
 ## Thanks to those who helped me with this EFI:
@@ -18,8 +16,6 @@ We followed the 1st method (with patching through OCLP-Mod)
 
 ## Opencore
 ### Version tested:
-  - 13.06: "Ventura"
-  - 15.4: "Sequoia"
   - 26.2: "Tahoe"
 
 ## Build Config.plist
