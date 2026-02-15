@@ -8,6 +8,12 @@ Note: For Audio using AppleHDA method see [this](https://github.com/Mirone/MyKex
   - @TECHNIKVERBOT for the re-work and Sequoia patches.
   - @C1014 for helping me boot Ventura for the first time.
 
+## SD Card
+
+https://github.com/0xFireWolf/RealtekCardReader
+
+https://github.com/0xFireWolf/RealtekCardReaderFriend
+
 ## Bluetooth & WiFi:
 
 - We followed the 1st method (with patching through OCLP-Mod) from this:
@@ -54,9 +60,7 @@ Note: For Audio using AppleHDA method see [this](https://github.com/Mirone/MyKex
   - Hardware acceleration          ✅
   - WiFi (w/ AirportItlwm.kext)    ✅
   - Bluetooth                      ✅
-
-## What's not tested:
-  - SD Card Reader
+  - SD Card
 
 ## Screenshots
 ![](https://github.com/JhonatanRian/EFI_DELL_LATITUDE_5490/blob/main/screenshots/iScreen%20Shoter%20-%20Terminal%20-%20240130234633.png?raw=true)
