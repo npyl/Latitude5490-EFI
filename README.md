@@ -50,14 +50,11 @@ Note: For Audio using AppleHDA method see [this](https://github.com/Mirone/MyKex
   - Webcam                         ✅
   - USB-C                          ✅
   - Hardware acceleration          ✅
+  - WIFI
+  - Bluetooth
 
 ## What's not tested:
   - SD Card Reader
-
-## Bugs (only on Sequoia):
-  - Intel Bluetooth (needs patches)
-  - AirPortitlwm (only works on Ventura)
-  - Brightness slider (-igfxblt and -igfxbls won't work)
 
 ## Screenshots
 ![](https://github.com/JhonatanRian/EFI_DELL_LATITUDE_5490/blob/main/screenshots/iScreen%20Shoter%20-%20Terminal%20-%20240130234633.png?raw=true)
