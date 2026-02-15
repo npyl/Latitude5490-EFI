@@ -10,6 +10,12 @@ Note: For Audio using AppleHDA method see [this](https://github.com/Mirone/MyKex
   - @TECHNIKVERBOT for the re-work and Sequoia patches.
   - @C1014 for helping me boot Ventura for the first time.
 
+## For Bluetooth and WIFI we followed this guide:
+
+https://github.com/felikafelix/Hackintosh-Thinkpad-T480s/blob/master/docs/post-install.md#-wireless-setup
+
+We followed the 1st method (with patching through OCLP-Mod)
+
 ## Opencore
 ### Version tested:
   - 13.06: "Ventura"
