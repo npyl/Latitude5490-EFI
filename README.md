@@ -8,11 +8,12 @@ Note: For Audio using AppleHDA method see [this](https://github.com/Mirone/MyKex
   - @TECHNIKVERBOT for the re-work and Sequoia patches.
   - @C1014 for helping me boot Ventura for the first time.
 
-## For Bluetooth and WIFI we followed this guide:
+## Bluetooth & WiFi:
 
-https://github.com/felikafelix/Hackintosh-Thinkpad-T480s/blob/master/docs/post-install.md#-wireless-setup
+- We followed the 1st method (with patching through OCLP-Mod) from this:
+  https://github.com/felikafelix/Hackintosh-Thinkpad-T480s/blob/master/docs/post-install.md#-wireless-setup
 
-We followed the 1st method (with patching through OCLP-Mod)
+- We built commit `a414375505fa3b014be32f8fca31b5bbfdf9f10f` of [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) 
 
 ## Opencore
 ### Version tested:
@@ -47,13 +48,12 @@ We followed the 1st method (with patching through OCLP-Mod)
   - Battery percentage             ✅
   - Microphone                     ✅
   - Headphone jack                 ✅
-  - Wi-Fi with itlwm               ✅
   - Ethernet                       ✅
   - Webcam                         ✅
   - USB-C                          ✅
   - Hardware acceleration          ✅
-  - WIFI
-  - Bluetooth
+  - WiFi (w/ AirportItlwm.kext)    ✅
+  - Bluetooth                      ✅
 
 ## What's not tested:
   - SD Card Reader
