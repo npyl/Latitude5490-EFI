@@ -60,7 +60,7 @@ https://github.com/0xFireWolf/RealtekCardReaderFriend
   - Hardware acceleration          ✅
   - WiFi (w/ AirportItlwm.kext)    ✅
   - Bluetooth                      ✅
-  - SD Card
+  - SD Card                        ✅
 
 ## Screenshots
 ![](https://github.com/JhonatanRian/EFI_DELL_LATITUDE_5490/blob/main/screenshots/iScreen%20Shoter%20-%20Terminal%20-%20240130234633.png?raw=true)
